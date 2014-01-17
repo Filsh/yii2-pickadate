@@ -3,6 +3,7 @@
 namespace yii\pickadate;
 
 use yii\helpers\Html;
+use yii\helpers\Json;
 
 class ActiveField extends \yii\widgets\ActiveField
 {
